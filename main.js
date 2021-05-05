@@ -1,0 +1,13 @@
+var FirstName = "Hrishit";
+console.log(FirstName);
+var LastName = "Gadia";
+console.log(LastName);
+var FullName = FirstName.concat(LastName);
+console.log(FullName);
+var Num1 = 27;
+console.log(Num1);
+var Num2 = 48;
+console.log(Num2);
+var answer = Num1 + Num2;
+console.log(answer);
+console.log("Thank You");
